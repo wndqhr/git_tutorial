@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 1 line
 2 line
+=======
+Hello world!
+First line
+Second line
+>>>>>>> c4450ef (First commit from new_branch)
